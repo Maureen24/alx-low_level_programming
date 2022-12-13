@@ -14,7 +14,7 @@ int main(void)
 	char letters = 'a';
 
 	int i;
-	
+
 	for (i = 0; i < 16; i++)
 	{
 		if (i < 10)
